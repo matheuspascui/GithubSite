@@ -17,6 +17,10 @@ a {
     text-decoration: none;
 }
 
+p {
+    text-align: justify;
+}
+
 header img {
     width: 150px;
     height: 150px;
